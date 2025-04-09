@@ -49,10 +49,3 @@ A modern Product Management web application with user authentication and CRUD fu
 ### Prerequisites
 - **Node.js** (v16+)
 - **MongoDB**
-
-### Steps to Set Up the Project
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/aryan25798/product_management.git
-   cd product_management
